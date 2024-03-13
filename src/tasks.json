@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "name": "do laundry",
+      "status": true
+    },
+    {
+      "id": "bcb4",
+      "name": "buy fruits",
+      "status": "Pending"
+    },
+    {
+      "id": "a43e",
+      "name": "some task",
+      "status": "Pending"
+    },
+    {
+      "id": "763b",
+      "name": "read book",
+      "status": false
+    },
+    {
+      "id": "0dee",
+      "name": "bake",
+      "status": false
+    }
+  ]
+}
